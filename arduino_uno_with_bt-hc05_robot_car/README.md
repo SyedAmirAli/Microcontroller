@@ -1,8 +1,8 @@
-# Robot car
+# Android App Control Robot car (RC)
 
 - 360 degree moving arduino uno with bluetooth hc-05 android app control car.
 
-## Instrument
+## Instruments
 
 1. Arduino UNO R3 Atmega328P Microcontroller Board.
 2. Adafruit L293D Gear Motor Driver.
