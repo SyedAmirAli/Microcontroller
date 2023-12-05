@@ -1,0 +1,5 @@
+{
+    "configuration": "FlashFreq=80,UploadSpeed=115200,DebugLevel=error,EraseFlash=none",
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "sketch": "esp32_robot_car_with_l298n.ino"
+}
