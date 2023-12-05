@@ -39,4 +39,4 @@ Before uploading the code, you need to install the "Adafruit Motor Shield" libra
 
 ---
 
-_Note: This Markdown file provides an organized structure for presenting information about the Arduino Bluetooth Car project, including details about the code, prerequisites, project author, app download links, version, and license. And All Credits are on DIY [Make Youtube Channel](https://www.youtube.com/@MakeDIY9)._
+_Note: This Markdown file provides an organized structure for presenting information about the Arduino Bluetooth Car project, including details about the code, prerequisites, project author, app download links, version, and license. And all credits are on [DIY Make](https://www.youtube.com/@MakeDIY9) Youtube Channel._
